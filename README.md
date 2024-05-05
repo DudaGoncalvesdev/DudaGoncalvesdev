@@ -20,3 +20,4 @@
 
 ##
 ![Snake animation](https://github.com/DudaGoncalvesdev/DudaGoncalvesdev/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=DudaGoncalvesdev&repo=your_username&theme=react)](https://github.com/DudaGoncalvesdev/DudaGoncalvesdev)
