@@ -5,11 +5,12 @@
 <img height="180em" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=DudaGoncalvesdev&show_icons=true&theme=dracula&layout=compact"/>
 </div></br>
 
+## My Skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ##
 
-### Contatos:
+### Contatos
 <div> 
 <a href="https://www.instagram.com/mduda.goncalves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
