@@ -5,6 +5,9 @@
 </br>
 🚀 Tecnologias: HTML5, CSS3, JavaScript, Python (básico)
 </br>
+📚 Atualmente estudando: Desenvolvimento Web e lógica de programação.
+</br>
+🎯 Objetivo: Conquistar minha primeira oportunidade de estágio na área de desenvolvimento.
 <div align="center" style="margin-bottom:100px">
 
 <img height="180em" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=DudaGoncalvesdev&show_icons=true&theme=dracula&layout=compact"/>
