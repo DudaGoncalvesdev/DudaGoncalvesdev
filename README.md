@@ -1,4 +1,7 @@
-## Olá!! Eu sou a Maria Eduarda
+## Olá!! Eu sou a Maria Eduarda👋
+🎓 Estudante de Engenharia de Software
+💻 Focada em Desenvolvimento Front-End
+🚀 Tecnologias: HTML5, CSS3, JavaScript, Python (básico)
 </br>
 <div align="center" style="margin-bottom:100px">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DudaGoncalvesdev&show_icons=true&theme=dracula&rank_icon=github"/>
