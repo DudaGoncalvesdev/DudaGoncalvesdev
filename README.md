@@ -1,6 +1,8 @@
 ## Olá!! Eu sou a Maria Eduarda👋
 🎓 Estudante de Engenharia de Software
+</br>
 💻 Focada em Desenvolvimento Front-End
+</br>
 🚀 Tecnologias: HTML5, CSS3, JavaScript, Python (básico)
 </br>
 <div align="center" style="margin-bottom:100px">
